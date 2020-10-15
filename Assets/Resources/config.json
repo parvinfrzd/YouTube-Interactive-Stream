@@ -1,0 +1,6 @@
+{
+    "APIKey" : "xxxxxxxxxxxxxxx",
+    "LiveStreamKey" : "xxxxxxxxxxxxxxx",
+    "WaitTime" : 10, 
+    "Keywords" : ["question", "tree", "myname"]
+}
